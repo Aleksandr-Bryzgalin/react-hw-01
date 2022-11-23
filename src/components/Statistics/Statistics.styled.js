@@ -14,7 +14,7 @@ export const Title = styled.h2`
   padding: 10px;  
   color: #000000;
   text-transform: uppercase;
-  font-size: 20px;
+  font-size: 21px;
 `
 
 export const StatList = styled.ul`
